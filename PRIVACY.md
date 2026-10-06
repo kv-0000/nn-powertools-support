@@ -74,7 +74,7 @@ address with a new "Last updated" date.
 
 ## Contact
 
-Please open an issue at https://github.com/kv-0000/my2n-powertools-support/issues
+Please open an issue at https://github.com/kv-0000/nn-powertools-support/issues
 
 ---
 
@@ -105,4 +105,4 @@ reklamu ani sledování.
 Aplikace je neoficiální nástroj nezávislého vývojáře a není spojena ani
 přidružena k 2N Telekomunikace a.s.
 
-Kontakt: založte issue na https://github.com/kv-0000/my2n-powertools-support/issues
+Kontakt: založte issue na https://github.com/kv-0000/nn-powertools-support/issues
