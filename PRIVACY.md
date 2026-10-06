@@ -1,8 +1,8 @@
-# Privacy Policy – My2N PowerTools
+# Privacy Policy – NN PowerTools
 
-_Last updated: 30 September 2026_
+_Last updated: 6 October 2026_
 
-My2N PowerTools ("the app") is an unofficial, independent Windows client for the
+NN PowerTools ("the app") is an unofficial, independent Windows client for the
 My2N cloud. It is not affiliated with, endorsed by, or connected to
 2N Telekomunikace a.s. The app is simply another view of the same My2N API that
 the my2n.com web portal uses.
@@ -48,7 +48,7 @@ this app's developer.
 
 The app stores only these items, and only on your computer:
 
-- `%LocalAppData%\My2N PowerTools\config.json`: app settings (the DESFire
+- `%LocalAppData%\NN PowerTools\config.json`: app settings (the DESFire
   application ID and which certificate authority is active). It contains no
   personal data or credentials.
 - **Windows certificate store:** certificate authority certificates that you
@@ -60,7 +60,7 @@ The app stores only these items, and only on your computer:
   log can still contain names or emails returned by the API. It is never sent
   anywhere. You can clear it in Settings or delete the file.
 
-Uninstalling the app and deleting the `%LocalAppData%\My2N PowerTools` folder
+Uninstalling the app and deleting the `%LocalAppData%\NN PowerTools` folder
 removes everything listed above.
 
 ## Children
@@ -78,7 +78,7 @@ Please open an issue at https://github.com/kv-0000/my2n-powertools-support/issue
 
 ---
 
-# Zásady ochrany osobních údajů – My2N PowerTools (česky)
+# Zásady ochrany osobních údajů – NN PowerTools (česky)
 
 **Vývojář nesbírá, nepřijímá, neukládá, neprodává ani nesdílí žádná vaše data.**
 Aplikace nemá žádný vlastní server a nepoužívá žádnou analytiku, telemetrii,
@@ -97,7 +97,7 @@ reklamu ani sledování.
   síti. Přihlašovací údaje k zařízením, fráze ani klíče karet DESFire se
   neukládají.
 - **Uloženo jen ve vašem počítači:**
-  - `%LocalAppData%\My2N PowerTools\config.json`: nastavení, bez osobních údajů.
+  - `%LocalAppData%\NN PowerTools\config.json`: nastavení, bez osobních údajů.
   - Certifikáty CA ve Windows úložišti certifikátů.
   - Volitelný ladicí log: výchozí stav je vypnuto, citlivé hodnoty jsou
     maskované a nikam se neodesílá.

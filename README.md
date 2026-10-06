@@ -1,6 +1,6 @@
-# My2N PowerTools – Support
+# NN PowerTools – Support
 
-Public support page for **My2N PowerTools**, an unofficial Windows app for managing My2N sites: users, RFID cards, licence plates, 2N devices, and MIFARE DESFire cards.
+Public support page for **NN PowerTools**, an unofficial Windows app for managing My2N sites: users, RFID cards, licence plates, 2N devices, and MIFARE DESFire cards.
 
 > Not affiliated with, endorsed by, or connected to 2N Telekomunikace a.s.
 
@@ -14,4 +14,4 @@ Public support page for **My2N PowerTools**, an unofficial Windows app for manag
 
 ## Česky
 
-Podpora pro aplikaci My2N PowerTools: chyby a dotazy hlaste přes [issues](../../issues). Issues jsou **veřejné**, nevkládejte hesla, tokeny, klíče karet ani osobní údaje obyvatel.
+Podpora pro aplikaci NN PowerTools: chyby a dotazy hlaste přes [issues](../../issues). Issues jsou **veřejné**, nevkládejte hesla, tokeny, klíče karet ani osobní údaje obyvatel.
